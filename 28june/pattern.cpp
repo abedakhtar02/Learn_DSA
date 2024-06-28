@@ -6,14 +6,17 @@ int main(){
     cin >> n; 
     for(i=1 ; i<=n ; i++)
     {
-        // for(j=1;j<=n;j++)
-        // {
-        //     // cout<<j;
-        //     // cout<< "*";
-        //     // cout<<n-j+1;
-        //     // cout<<i;
+        /*
+        for(j=1;j<=n;j++)
+        {
+            cout<<j;
+            cout<< "*";
+            cout<<n-j+1;
+            cout<<i;
             
-        // }
+        }
+        */
+        /*
         j=1;
         while(j<=n)
         {
@@ -21,6 +24,7 @@ int main(){
             count++;
             j++;
         }
+        */
         cout << endl;
     }
 }
